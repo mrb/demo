@@ -1,0 +1,11 @@
+{
+  "name": "demo",
+  "version": "1.0.0",
+  "dependencies": {
+    "marked": {
+      "version": "0.3.3",
+      "from": "marked@0.3.3",
+      "resolved": "https://registry.npmjs.org/marked/-/marked-0.3.3.tgz"
+    }
+  }
+}
