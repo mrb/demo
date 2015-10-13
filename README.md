@@ -3,6 +3,7 @@ Contains various vulnerable dependencies useful for demonstration purposes.
 
 ## Command Line Interface Demo
 
+
 ```
 git clone git@github.com:requiresafe/demo.git
 npm i -g requiresafe
